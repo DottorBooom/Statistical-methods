@@ -35,7 +35,7 @@
 A simple introduction with what you have to expect from this course. Everything written above is a summary of the lesson.
 An R file that serves as a test of the student's knowledge
 
-Slides and R file are available [here](Lecture_0/)
+Slides and R file are available [here](Lectures/Lecture_0/)
 
 ## Review of some probability concepts
 
@@ -43,13 +43,13 @@ Slides and R file are available [here](Lecture_0/)
 + **Random variables**: whate they are, tools used to describe (pmf, pdf, cdf and quantile functions)
 + **Discrete distributions**: probability function, mean, standard deviation, variance and notable discrete random variables
 + **R implementation**: some code that was used during the lecture
-Slides and R files are available [here](Lecture_1/)
+Slides and R files are available [here](Lectures/Lecture_1/)
 
 ### Lecture 2
 + **Continuos distributions**: densoty function, mean, variance and notable continuos random variables
-Slides and R files are available [here](Lecture_2/)
+Slides and R files are available [here](Lectures/Lecture_2/)
   
 ### Lecture 3
 + **Cumulative distribution function and quantile functions**: what they are, how to use them
 + **R exercise**: Exercises to conclude the chapter and consolidate the use of the tools learned in class
-Slides and R file are available [here](Lecture_3/)
+Slides and R file are available [here](Lectures/Lecture_3/)
