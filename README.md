@@ -67,3 +67,11 @@ Slides and R file are available [here](Lectures/Lecture_3/)
 Slides are available [here](Lectures/Lecture_4/)
 
 ## Statistical models
+
+### Lecture 5
++ **Random vectors**: what they are, how to use them, conditional and maarginal distribution, bayes theorem, indipendence and conditional indipendence, mean, variance and covariance and trasformation of random variables and vectors
++ **The mutlivariate normal distribution**: what it is, the joint p.d.f, linear trasformation and conditional distributions
++ **Statistics**: wha they are
++ **Large-sample results**: moment generating function, the central limit theorem, the law of large numbers and the weak version, jensen's inequality
+
+Slides are available [here](Lectures/Lecture_4/)
