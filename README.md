@@ -44,15 +44,18 @@ Slides and R file are available [here](Lectures/Lecture_0/)
 + **Random variables**: whate they are, tools used to describe (pmf, pdf, cdf and quantile functions)
 + **Discrete distributions**: probability function, mean, standard deviation, variance and notable discrete random variables
 + **R implementation**: some code that was used during the lecture
+
 Slides and R files are available [here](Lectures/Lecture_1/)
 
 ### Lecture 2
 + **Continuos distributions**: densoty function, mean, variance and notable continuos random variables
+
 Slides and R files are available [here](Lectures/Lecture_2/)
   
 ### Lecture 3
 + **Cumulative distribution function and quantile functions**: what they are, how to use them
 + **R exercise**: exercises to conclude the chapter and consolidate the use of the tools learned in class
+ 
 Slides and R file are available [here](Lectures/Lecture_3/)
 
 ### Lecture 4
@@ -60,6 +63,7 @@ Slides and R file are available [here](Lectures/Lecture_3/)
 + **The mutlivariate normal distribution**: what it is, the joint p.d.f, linear trasformation and conditional distributions
 + **Statistics**: wha they are
 + **Large-sample results**: moment generating function, the central limit theorem, the law of large numbers and the weak version, jensen's inequality
+
 Slides are available [here](Lectures/Lecture_4/)
 
 ## Statistical models
