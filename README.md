@@ -5,6 +5,7 @@
 + [Intro to course](#intro-to-course)
 + [Review of some probability concepts](#review-of-some-probability-concepts)
 + [Statistical models](#statistical-models)
++ [Parameter estimation](#parameter-estimation)
 + [Master's index](https://github.com/DottorBooom/Master-in-Data-Science-and-Artificial-Intelligence) 
 
 ## Introduction
@@ -74,4 +75,17 @@ Slides are available [here](Lectures/Lecture_4/)
 + **Statistics**: wha they are
 + **Large-sample results**: moment generating function, the central limit theorem, the law of large numbers and the weak version, jensen's inequality
 
-Slides are available [here](Lectures/Lecture_4/)
+Slides are available [here](Lectures/Lecture_5/)
+
+## Parameter estimation
+
+### Lecture 6-7
++ **Poit estimation**: what it is and how it works, proprerties that we want,  ME and SE
++ **Interval estimation**: what it is and hwo to compute it, pivots, interpretation of the results and different type of confidence intervals
+
+Slides are available [here](Lectures/Lecture_6-7/)
+
+### Lecture 8
++ **Exercise**: in this lecture we apply the theory concept that we have done in the lecture 6 and 7 by computing some estimated intervall, ME, pivotal and other things (by hand and then with R)
+
+Slides are available [here](Lectures/Lecture_8/)
