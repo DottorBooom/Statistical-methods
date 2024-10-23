@@ -82,10 +82,12 @@ Slides are available [here](Lectures/Lecture_5/)
 ### Lecture 6-7
 + **Poit estimation**: what it is and how it works, proprerties that we want,  ME and SE
 + **Interval estimation**: what it is and hwo to compute it, pivots, interpretation of the results and different type of confidence intervals
-
-Slides are available [here](Lectures/Lecture_6-7/)
++ **R file**: the use of R to better understand some concepts
+  
+Slides and R file available [here](Lectures/Lecture_6-7/)
 
 ### Lecture 8
 + **Exercise**: in this lecture we apply the theory concept that we have done in the lecture 6 and 7 by computing some estimated intervall, ME, pivotal and other things (by hand and then with R)
++ **R exercise**: exercises to consolidate the use of the tools learned in class
 
-Slides are available [here](Lectures/Lecture_8/)
+Slides nad R file are available [here](Lectures/Lecture_8/)
