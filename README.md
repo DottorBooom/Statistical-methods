@@ -4,6 +4,7 @@
 
 + [Intro to course](#intro-to-course)
 + [Review of some probability concepts](#review-of-some-probability-concepts)
++ [Statistical models](#statistical-models)
 + [Master's index](https://github.com/DottorBooom/Master-in-Data-Science-and-Artificial-Intelligence) 
 
 ## Introduction
@@ -51,5 +52,14 @@ Slides and R files are available [here](Lectures/Lecture_2/)
   
 ### Lecture 3
 + **Cumulative distribution function and quantile functions**: what they are, how to use them
-+ **R exercise**: Exercises to conclude the chapter and consolidate the use of the tools learned in class
++ **R exercise**: exercises to conclude the chapter and consolidate the use of the tools learned in class
 Slides and R file are available [here](Lectures/Lecture_3/)
+
+### Lecture 4
++ **Random vectors**: what they are, how to use them, conditional and maarginal distribution, bayes theorem, indipendence and conditional indipendence, mean, variance and covariance and trasformation of random variables and vectors
++ **The mutlivariate normal distribution**: what it is, the joint p.d.f, linear trasformation and conditional distributions
++ **Statistics**: wha they are
++ **Large-sample results**: moment generating function, the central limit theorem, the law of large numbers and the weak version, jensen's inequality
+Slides are available [here](Lectures/Lecture_4/)
+
+## Statistical models
