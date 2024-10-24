@@ -6,6 +6,7 @@
 + [Review of some probability concepts](#review-of-some-probability-concepts)
 + [Statistical models](#statistical-models)
 + [Parameter estimation](#parameter-estimation)
++ [Hypotesis testing](#hypotesis-testing)
 + [Master's index](https://github.com/DottorBooom/Master-in-Data-Science-and-Artificial-Intelligence) 
 
 ## Introduction
@@ -90,4 +91,20 @@ Slides and R file available [here](Lectures/Lecture_6-7/)
 + **Exercise**: in this lecture we apply the theory concept that we have done in the lecture 6 and 7 by computing some estimated intervall, ME, pivotal and other things (by hand and then with R)
 + **R exercise**: exercises to consolidate the use of the tools learned in class
 
-Slides nad R file are available [here](Lectures/Lecture_8/)
+Slides and R file are available [here](Lectures/Lecture_8/)
+
+
+## Hypotesis testing
+
+## Lecture 9-10
++ **Foundamental of hypotesis testing**: the idea, the general formulation, how it works and how to make it, the p-value, rejection and acceptance regions, different type of errors and power of a test
++ **Some commonly used tests**: one and two sample t-test. paired t-test
++ **Relation between tests and confidence intervals**: analysis of results
++ **Nonparametric tests**: What it is, the main idea, some example of nonparametric tests
+
+Slides are available [here](Lectures/Lecture_9-10/)
+
+## Lecture 11
++ **Exercise**: For closing this chapter the professor give us some exercise and ask us to solve them. But before, we did the first exercise as an example for the others
+
+Exercises with (some) solutions are available [here](Lectures/Lecture_11/)
