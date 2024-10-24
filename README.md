@@ -96,7 +96,7 @@ Slides and R file are available [here](Lectures/Lecture_8/)
 
 ## Hypotesis testing
 
-## Lecture 9-10
+### Lecture 9-10
 + **Foundamental of hypotesis testing**: the idea, the general formulation, how it works and how to make it, the p-value, rejection and acceptance regions, different type of errors and power of a test
 + **Some commonly used tests**: one and two sample t-test. paired t-test
 + **Relation between tests and confidence intervals**: analysis of results
@@ -104,7 +104,7 @@ Slides and R file are available [here](Lectures/Lecture_8/)
 
 Slides are available [here](Lectures/Lecture_9-10/)
 
-## Lecture 11
+### Lecture 11
 + **Exercise**: For closing this chapter the professor give us some exercise and ask us to solve them. But before, we did the first exercise as an example for the others
 
 Exercises with (some) solutions are available [here](Lectures/Lecture_11/)
