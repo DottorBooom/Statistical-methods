@@ -12,7 +12,7 @@
 + [Logistic regression](#Logistic-regression)
 + [Regression for count data](#Regression-for-count-data)
 + [Bootstrap methods](#Bootstrap-methods)
-+ [Generalized linear models](Generalized-linear-models)
++ [Generalized linear models](#Generalized-linear-models)
 + [Non parametric smoothing](#Non-parametric-smoothing)
 + [Generalized additive models](#Generalized-additive-models)
 + [Classification and regression trees](#Classification-and-regression-trees)
