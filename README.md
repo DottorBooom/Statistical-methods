@@ -7,6 +7,8 @@
 + [Statistical models](#statistical-models)
 + [Parameter estimation](#parameter-estimation)
 + [Hypotesis testing](#hypotesis-testing)
++ [Likelihood theory](#Likelihood-theory)
++ [Linear models](#Linear-models)
 + [Master's index](https://github.com/DottorBooom/Master-in-Data-Science-and-Artificial-Intelligence) 
 
 ## Introduction
@@ -108,3 +110,25 @@ Slides are available [here](Lectures/Lecture_9-10/)
 + **Exercise**: For closing this chapter the professor give us some exercise and ask us to solve them. But before, we did the first exercise as an example for the others
 
 Exercises with (some) solutions are available [here](Lectures/Lecture_11/)
+
+## Likelihood theory
+
+### Lecture 12-13
++ **The likelihood function**: what is it, how to interpret it, the log-likelihood and some example.
++ **Maximum likelihood estimation**: the score function, some properties, the Craméer-Rao lower bound and some other characteristic
++ **Confidence intervals**: Wald-type intervals and alternative methods
++ **Tests**: the ratio test, Neyman-Pearson and so on
++ **Model selection**: how to choose the best model, AIC 
+
+Slides are available [here](Lectures/Lecture_12-13/)
+
+## Linear models
+
+### Lecture 14-15
++ **Introduction to linear models**: what are they, aim of regression modelling, a formal form, the simple model, how to choose the best, testing usefulness of models, prediction and model checking.
++ **Multiple linear model**: why multiple model, how it works, interpreting the model, inference result, model checking and generalize multiple regression model.
++ **Matrix notation**: why it's important, some assumptions, continuous covariates, factors, interactions and interpretation of the parameters
++ **Inference in Linear models**: Least square estimation, properties and ML estimation
++ **Model validation and model selection**: Testing hypotesis, test single coefficient, the sum of square, analysis of variance, R^2, residuals, heteroscedasticity, WLS, model choiche and variable selection, avoiding collinearity, regularization techniques and LASSO.
+
+Slides are available [here](Lectures/Lecture_14-15/)
