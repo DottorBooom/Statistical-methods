@@ -9,6 +9,14 @@
 + [Hypotesis testing](#hypotesis-testing)
 + [Likelihood theory](#Likelihood-theory)
 + [Linear models](#Linear-models)
++ [Logistic regression](#Logistic-regression)
++ [Regression for count data](#Regression-for-count-data)
++ [Bootstrap methods](#Bootstrap-methods)
++ [Generalized linear models](Generalized-linear-models)
++ [Non parametric smoothing](#Non-parametric-smoothing)
++ [Generalized additive models](#Generalized-additive-models)
++ [Classification and regression trees](#Classification-and-regression-trees)
++ [Ensemble methods](#Ensemble-methods)
 + [Master's index](https://github.com/DottorBooom/Master-in-Data-Science-and-Artificial-Intelligence) 
 
 ## Introduction
@@ -132,3 +140,95 @@ Slides are available [here](Lectures/Lecture_12-13/)
 + **Model validation and model selection**: Testing hypotesis, test single coefficient, the sum of square, analysis of variance, R^2, residuals, heteroscedasticity, WLS, model choiche and variable selection, avoiding collinearity, regularization techniques and LASSO.
 
 Slides are available [here](Lectures/Lecture_14-15/)
+
+## Logistic regression
+
+### Lecture 16
++ **Introduction**: basic ideas
++ **Regression for dichotomous response**: what is, binary dependent variable, bernoulli variables, choosing an appropriate curve and function and MLE and multiple logistic regression
++ **Parameters interpretation**: again on logistic regression, binomial response, odds and log-odds and interpretation of a dichotomous covariate
++ **Inference for logistic regression parameters**: testing parameters, inference on parameters for judging the performancce and predicting the response variable
++ **Alternative specification of the response function**: probit regression vs logistic regression
++ **Estimation issues**: case of perfect separation 
+
+Slides are available [here](Lectures/Lecture_16/)
+
+## Regression for count data
+
+### Lecture 17
++ **Introduction**: Count variables and counts as response variable
++ **Poisson regression**: basic framework, interpretation of the parameters, estimation of the parameters and multiple poisson regression
++ **Inference**: testing significance of single /betas and judging the overall performance of the mode
++ **Overdispersion**: overdispersed count data, residual checks, dealing with overdispersion, quasi-likelihood model and using it in glm
++ **Beyond**: other models for count data, negative binomial regression and zero inflated poisson
+
+Slides are available [here](Lectures/Lecture_17/)
+
+## Bootstrap methods
+
+### Lecture 18
++ **Resampling methods**: the idea, jackknife, what is it and other details
++ **The nonparametric bootstrap**: introduction, the idea, how does it work, standard error computation, more on the bootstrap idea and some coments on it
++ **The parametric bootstrap**: what is it and application to hypothesis testing
++ **Bootstrap-based confidence intervals**: what are they, some example, percentile method, the basic method and the studentized method
+
+Slides are available [here](Lectures/Lecture_18/)
+
+## Generalized linear models
+
+### Lecture 19
++ **Introduction**: what is it, from LM to GLM, introducting GLMs, the exponential family and some example
++ **Basic ideas**: the structure of GLMs, the ingredients, mean and variance, some relevant member of the exp family, the link function and the canonical link
++ **inference**: estimation of the parameters,some question about MLE, likelihood equations, again the canonical link, fisher information ans some models
++ **Solution of the likelihood equations**: different algorithm to solve it
++ **Model evaluation**: comparing nested models, the deviance in LMs, LR test, the saturated model, deviance in GLMs, comparing nested models, resivdual deviance, model selection, residuals in GLM, deviance residuals and residual analysis
++ **Quasi-likelihood**: more on quasi-likelihood, model, equations and overdispersion
++ **Extensions and recent development**: some story end moder development
+
+Slides are available [here](Lectures/Lecture_19/)
+
+## Non parametric smoothing
+
+### Lecture 20
++ **Nonlinear regression and scatterplot smoothing**: the limitations of linearity, classses of nonlinear models and semi-parametric regression models
++ **Polynomial regression**: what is it and an example
++ **Step functions**: what is it and some example
++ **kernel smoothing**: goals of smoothing, nearest neighbour averaging, nearest neigbour,choosing k, local regression, the effect of h, some kernel smoothers, variable bandwidth and the loess.
++ **Regression splines**: basis function, picewise regression, splines credit dataset, linear splines, the positive part, cubic splines, natural cubic splines, number and locations of the knots and choosing k with cv
++ **Smoothing splines**: what is it, choosing it and cross-validation
+
+Slides are available [here](Lectures/Lecture_20/)
+
+## Generalized additive models
+
+### Lecture 21
++ **semiparametric regression: an introductory example**: some examples and nonlinear regression
++ **Some theory**: semiparametric regression and a basic representation, estimation, smoothness of regression curve and choice of km quantififyng the smoothness of the curve, penalized sum of squares, choice of tuning parameter, degree of smoothness and predicrive accuracy and some example
++ **GAMs**: the basic ideas, some example and winding up
+
+Slides are available [here](Lectures/Lecture_21/)
+
+## Classification and regression trees
+
+### Lecture 22
++ **Regression trees**: step functions as approximators, as spline, the tree, tree approximation, a regression tree, building, growing and pruning it
++ **Classification trees**: what is it, growing it, the goodness of split criterion, impurity measures, avoiding overfitting, missing data, advantages and disadvantages
++ **MARS: multivariate adaptive regression splines**: what is it and how it works
+
+Slides are available [here](Lectures/Lecture_22/)
+
+## Ensemble methods
+
+### Lecture 23
++ **Ensemble methods**: breaf history, combining predictions, bagging, out-of-bag, random forest, variable importance and boosting
++ **Learning with imbalanced data**: classification with imbalanced datasets, degree of imbalance, performance metrics in a two-class problems, other metrics, AUC, approches to imbalanced data lassification, resampling techniques, undersampling/oversampling, ROSE, SMOTE and some pratical issues
+
+Slides are available [here](Lectures/Lecture_23/)
+
+## Bayesian inference
+
+### Lecture 24
+
+This section was not included in the final exam we took, so I will not list every chapter that belongs in it.
+
+Slides are available [here](Lectures/Lecture_24/)
