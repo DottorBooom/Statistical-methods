@@ -17,6 +17,7 @@
 + [Generalized additive models](#Generalized-additive-models)
 + [Classification and regression trees](#Classification-and-regression-trees)
 + [Ensemble methods](#Ensemble-methods)
++ [Bayesian inference](#Bayesian-inference)
 + [Master's index](https://github.com/DottorBooom/Master-in-Data-Science-and-Artificial-Intelligence) 
 
 ## Introduction
